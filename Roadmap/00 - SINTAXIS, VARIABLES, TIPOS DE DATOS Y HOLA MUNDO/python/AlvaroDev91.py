@@ -22,3 +22,19 @@
  * debemos comenzar por el principio.
  */
 '''
+
+#1: https://es.python.org/
+#2: 'Hola como estas'
+'''pues aqui estamos
+segunda forma de representar comentarios
+en varias lineas'''
+#3:
+variable = "Hola mundo"
+#4:
+string = "Variable detipo string"
+integer = 3
+float = 3.5
+booleano = True
+var_none = None
+#5:
+print("¡Hola, Python!")
